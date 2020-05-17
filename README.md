@@ -1,4 +1,4 @@
-# FaceGeneration_usingGANs
+# FaceGenerationUsingGANs
 
 In this project, I have defined and trained a Deep Cycle GAN(DCGAN) on a dataset of faces. The goal was to get a generator network to generate new images of faces that look as realistic as possible!
 
