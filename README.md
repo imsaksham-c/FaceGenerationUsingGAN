@@ -11,6 +11,7 @@ This dataset is more complex than the number datasets (like MNIST or SVHN), and 
 
 ## Pre-processed Data
 I've done some of the pre-processing like each of the CelebA images has been cropped to remove parts of the image that don't include a face, then resized down to 64x64x3 NumPy images.
+![Preproceesed Image](https://github.com/imsaksham-c/FaceGenerationUsingGAN/blob/master/assets/processed_face_data.png)
 
 ## Instructions
 1. You can download this data by clicking [here](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
